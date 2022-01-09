@@ -1,6 +1,7 @@
 ---
 author: copyrite
 title: letut
+tags: [resepti]
 ---
 
 1 l | maitoa tai vettä 	

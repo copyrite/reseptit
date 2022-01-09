@@ -1,0 +1,11 @@
+---
+author: copyrite
+title: reseptit
+---
+<ul>
+{% for p in site.pages %}
+  {% if p.tags contains 'resepti' %}
+    <li><a href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
