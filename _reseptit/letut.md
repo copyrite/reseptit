@@ -1,7 +1,7 @@
 ---
 author: copyrite
 title: letut
-tags: [resepti]
+source: https://www.kotikokki.net/reseptit/nayta/51660/Munattomat%20letut/
 ---
 
 1 l | maitoa tai vettä 	

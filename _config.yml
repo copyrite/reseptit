@@ -46,3 +46,13 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  reseptit:
+    output: true
+    permalink: /:name
+defaults:
+  - scope:
+      path: _reseptit
+    values:
+      layout: default
