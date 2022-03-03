@@ -11,9 +11,15 @@
     <section>
       {{ content }}
     </section>
-    {% if page.source != nil %}
+    {% assign foot = "" | append: page.source | append: page.offline_source %}
+    {% if foot != nil %}
       <footer class="site-footer">
+        {% if page.source != nil %}
         Lähde: <a href="{{ page.source }}">{{page.source}}</a>
+        {% endif %}
+        {% if page.offline_source != nil %}
+        Lähde: <em>{{ page.offline_source }}</em>
+        {% endif %}
       </footer>
     {% endif %}
   </body>
