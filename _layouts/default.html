@@ -11,5 +11,10 @@
     <section>
       {{ content }}
     </section>
+    {% if page.source != nil %}
+      <footer class="site-footer">
+        Lähde: <a href="{{ page.source }}">{{page.source}}</a>
+      </footer>
+    {% endif %}
   </body>
 </html>
