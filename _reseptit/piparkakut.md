@@ -7,7 +7,7 @@ source: https://www.dansukker.fi/fi/resepteja/vegaaninen-piparkakkutaikina
 2 dl | Dansukker Taloussokeria
 1 ½ dl | Dansukker Tummaa siirappia
 ¾ dl | vettä
-3 rkl | piparkakkumaustetta
+3 rkl | piparkakkumaustetta<br>(tai esim. 1 rkl kanelia, 1 rkl kardemummaa, 1 rkl neilikkaa)
 150 g | vegaanista margariinia (maidoton)
 7 ½ dl | vehnäjauhoja
 2 tl | ruokasoodaa
